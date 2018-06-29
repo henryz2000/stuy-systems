@@ -1,0 +1,57 @@
+[submodule "hw02"]
+	path = hw02
+	url = https://github.com/henryz2000-stuycs/SystemsEuler.git
+[submodule "hw03"]
+	path = hw03
+	url = https://github.com/henryz2000-stuycs/SystemsPointer.git
+[submodule "hw04"]
+	path = hw04
+	url = https://github.com/henryz2000-stuycs/SystemsString.git
+[submodule "hw06"]
+	path = hw06
+	url = https://github.com/henryz2000-stuycs/SystemsLinkedList.git
+[submodule "hw08"]
+	path = hw08
+	url = https://github.com/henryz2000-stuycs/SystemsStat.git
+[submodule "hw09"]
+	path = hw09
+	url = https://github.com/henryz2000-stuycs/SystemsDIR.git
+[submodule "hw10"]
+	path = hw10
+	url = https://github.com/henryz2000-stuycs/SystemsSignal.git
+[submodule "hw11"]
+	path = hw11
+	url = https://github.com/henryz2000-stuycs/SystemsArgs.git
+[submodule "hw13"]
+	path = hw13
+	url = https://github.com/henryz2000-stuycs/SystemsPipe.git
+[submodule "hw14"]
+	path = hw14
+	url = https://github.com/henryz2000-stuycs/SystemsSemaphore.git
+[submodule "hw15"]
+	path = hw15
+	url = https://github.com/henryz2000-stuycs/SystemsStory.git
+[submodule "hw05"]
+	path = hw05
+	url = https://github.com/jacqxu00/Systems05Stringy.git
+[submodule "hw07"]
+	path = hw07
+	url = https://github.com/jakegoldman/systems-work07.git
+[submodule "hw12"]
+	path = hw12
+	url = https://github.com/jakegoldman/systems-work12.git
+[submodule "hw16"]
+	path = hw16
+	url = https://github.com/JonW27/pipe_networking.git
+[submodule "hw17"]
+	path = hw17
+	url = https://github.com/JonW27/forkin.git
+[submodule "proj0"]
+	path = proj0
+	url = https://github.com/JonW27/my_tunez.git
+[submodule "proj1"]
+	path = proj1
+	url = https://github.com/jacqxu00/SystemsProject1.git
+[submodule "proj2"]
+	path = proj2
+	url = https://github.com/srafi1/tinfoil-potatoes.git
